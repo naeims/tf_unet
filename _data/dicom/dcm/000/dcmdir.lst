@@ -1,0 +1,2457 @@
+;*** DICOMDIR CODES SUMMARY ***
+;******************************
+; 0	Dicom file accepted
+; 1	Invalid filename for file
+; 2	File is not DICOM Part 10 compliant
+; 3	Cannot open file for reading as a dataset
+; 4	File is a DICOMDIR
+; 5	Profile restriction don't match file
+; 6	SOPInstanceUID already found and registered
+; 7	SOPInstanceUID attribute was not found
+; 8	SeriesInstanceUID attribute was not found
+; 9	StudyInstanceUID attribute was not found
+
+2	, Dental School Windows 7 Desktop.lnk
+2	, Radiology Cardiology Windows 7 Desktop.lnk
+2	, SBM Windows 7 Desktop.lnk
+2	1197ac_16fd7602d36b473aaabef9f87f76b985.jpg_srz_618_782_85_22_0.50_1.20_0.00_jpg_srz
+2	Anesthesia P159.lnk
+2	bank statement May.pdf
+2	Batch Manager - P159.lnk
+2	CB 5.0.lnk
+2	CDI Work Queue Monitor PROD.lnk
+2	Clairvia Admin P159.lnk
+2	Clairvia InterfaceManager P159.lnk
+2	Clairvia P159.lnk
+2	Clairvia Web Permissions P159.lnk
+2	Clairvia Web Server P159.lnk
+2	CPDI Support Folder PROD.lnk
+2	dcmdir.lst
+2	desktop.ini
+2	Favorites.lnk
+2	For the newsletter.docx
+2	Fortress _ Fortress Certificate.pdf
+2	Gmail - BeamReaders_ Order Confirmed #10034.pdf
+2	IAWF mentorship program.docx
+2	iCATVision.lnk
+2	Office365 Webmail.lnk
+2	Patient Protocol Manager.lnk
+2	Power Trials.lnk
+2	RAS Viewer.lnk
+2	RASi Scanning.lnk
+2	Review Manager 5.3.lnk
+2	SBUH Policy and Procedures.lnk
+2	To Whom It May Concern.docx
+2	Two periapical radiographs dated.docx
+2	Vision.exe
+2	VisionCHS.dll
+2	VisionCSY.dll
+2	VisionDEU.dll
+2	VisionESN.dll
+2	VisionESP.dll
+2	VisionFRA.dll
+2	VisionITA.dll
+2	VisionJPN.dll
+2	VisionKOR.dll
+2	VisionNLD.dll
+2	VisionPLK.dll
+2	VisionPTB.dll
+2	VisionRUS.dll
+2	VisionSVE.dll
+2	VisionTRK.dll
+2	~$Inflammatory lesions of the jaws.pptm
+2	157200\20160418\QuickDir7.bin
+2	157200\20160418\QuickRawdir5.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\QuickDir7.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\StudyStatus.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\ATPPreviewScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\Contours.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\ImplantScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\MdRad.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\MPRScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\ncData.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\Params.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\PreviewScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\VOI_AP_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\VOI_CC_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\VOI_RL_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup000\WUInfo.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\ATPPreviewScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\Contours.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\ImplantScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\MdRad.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\MPRScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\ncData.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\Params.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\PreviewScreen.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\VOI_AP_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\VOI_CC_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\VOI_RL_MIP.bin
+2	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\LoadStatus\Workup001\WUInfo.bin
+2	157200\20160418\Output\2.16.840.114421.80660.9514285035.9545821035^CT^Prv_001.jpg
+2	157200\20170424\QuickDir7.bin
+2	157200\20170424\QuickRawdir5.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\QuickDir7.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\StudyStatus.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\ATPPreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\Contours.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\ImplantScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\MdRad.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\MPRScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\MxRad.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\ncData.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\Params.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\PreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\Rot.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\VOI_AP_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\VOI_CC_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\VOI_RL_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup000\WUInfo.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\ATPPreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\Contours.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\ImplantScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\MdRad.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\MxRad.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\ncData.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\Params.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\PreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\Rot.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\VOI_AP_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\VOI_CC_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\VOI_RL_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup001\WUInfo.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\ATPPreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\Contours.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\ImplantScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\MdRad.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\MPRScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\ncData.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\Params.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\PreviewScreen.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\Rot.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\VOI_AP_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\VOI_CC_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\VOI_RL_MIP.bin
+2	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\LoadStatus\Workup002\WUInfo.bin
+2	157200\20170424\Output\2.16.840.114421.80660.9546335236.9577871236^CT^Prv_001.jpg
+2	163298\20150821\QuickDir7.bin
+2	163298\20150821\QuickRawdir5.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\QuickDir7.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\StudyStatus.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\ATPPreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\Contours.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\ImplantScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\MPRScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\MxRad.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\ncData.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\Params.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\PreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\Rot.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\TMJScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\VOI_AP_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\VOI_CC_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\VOI_RL_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup000\WUInfo.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\ATPPreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\Contours.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\ImplantScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\MdRad.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\MPRScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\MxRad.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\ncData.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\Params.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\PreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\TMJScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\VOI_AP_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\VOI_CC_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\VOI_RL_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup001\WUInfo.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\ATPPreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\Contours.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\ImplantScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\MPRScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\MxRad.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\ncData.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\Params.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\PreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\Rot.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\TMJScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\VOI_AP_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\VOI_CC_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\VOI_RL_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup002\WUInfo.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\ATPPreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\Contours.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\ImplantScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\MdRad.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\MPRScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\ncData.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\Params.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\PreviewScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\Rot.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\TMJScreen.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\VOI_AP_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\VOI_CC_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\VOI_RL_MIP.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\LoadStatus\Workup003\WUInfo.bin
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\Output\IMP^ORTH_06^R^William_Lupardo^20150821^000.jpg
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\Output\IMP^ORTH_06^R^William_Lupardo^20150821^001.jpg
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\Output\IMP^ORTH_06^R^William_Lupardo^20150821^002.jpg
+2	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\Output\IMP^ORTH_06^R^William_Lupardo^20150821^003.jpg
+2	163298\20150821\Output\2.16.840.114421.80660.9493472393.9525008393^CT^Prv_001.jpg
+2	166569\dcmdir.lst
+4	166569\DICOMDIR
+2	166569\FilesManager.xml
+2	169401\20170303\QuickDir7.bin
+2	169401\20170303\QuickRawdir5.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\QuickDir7.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\StudyStatus.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\ATPPreviewScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\Contours.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\ImplantScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\MdRad.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\MPRScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\MxRad.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\ncData.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\Params.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\PreviewScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\TMJScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\VOI_AP_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\VOI_CC_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\VOI_RL_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup000\WUInfo.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\ATPPreviewScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\Contours.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\ImplantScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\MdRad.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\MPRScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\MxRad.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\ncData.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\Params.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\PreviewScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\TMJScreen.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\VOI_AP_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\VOI_CC_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\VOI_RL_MIP.bin
+2	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\LoadStatus\Workup001\WUInfo.bin
+2	169401\20170303\Output\2.16.840.114421.80660.9541867020.9573403020^CT^Prv_001.jpg
+2	B159 Support Folders\UNVRNYCTX152 NonProd Clairvia Support.lnk
+2	Cerner B159\Batch Manager.lnk
+2	Cerner B159\CDI Work Queue Monitor NONPROD.lnk
+2	Cerner B159\Clairvia AtStaff Admin B159.lnk
+2	Cerner B159\Clairvia B159.lnk
+2	Cerner B159\Clairvia InterfaceManager NonProd.lnk
+2	Cerner B159\Clairvia Web Permissions B159.lnk
+2	Cerner B159\Clairvia Web Server B159.lnk
+2	Cerner B159\CPDI Support Folder NONPROD C159.lnk
+2	Cerner B159\CPDI Support Folder NONPROD.lnk
+2	Cerner B159\UNVRNYCTX151 B159 Support Folder.lnk
+2	Cerner B159\UNVRNYCTX97 B159 Support Folder.lnk
+2	Cerner B159\Validation.lnk
+2	Cerner C159\UNVRNYCTX148 C159 Support Folder.lnk
+2	Cerner C159\UNVRNYCTX94 C159 Support Folder.lnk
+2	Cerner C159\Validation C159.lnk
+2	Cerner M159\Test App Wireshark.lnk
+2	Cerner M159\UNVRNYCTX149 M159 Support Folder.lnk
+2	Cerner M159\UNVRNYCTX95 M159 Support Folder.lnk
+2	Cerner M159\Validation M159.lnk
+2	Cerner P159\Anon Apps\Anesthesia P159 ANON.lnk
+2	Cerner S159\UNVRNYCTX156 S159 Support Folder.lnk
+2	Cerner S159\UNVRNYCTX157 S159 Support Folder.lnk
+2	Cerner T159\UNVRNYCTX150 T159 Support Folder.lnk
+2	Cerner T159\UNVRNYCTX96 T159 Support Folder.lnk
+2	P159 Support Folders\UNVRNYCTX153 P159 Clairvia Support.lnk
+2	P159 Support Folders\UNVRNYCTX154 P159 Clairvia Support.lnk
+2	P159 Support Folders\UNVRNYCTX155 P159 Clairvia Support.lnk
+2	Review Manager 5.3\error.log
+2	Review Manager 5.3\output.log
+2	Review Manager 5.3\PYCC.pf
+2	Review Manager 5.3\Review Manager 5.3.exe
+2	Review Manager 5.3\rm5.jar
+2	Review Manager 5.3\uninstall.exe
+2	Review Manager 5.3\update.exe
+2	Review Manager 5.3\css\styles.css
+2	Review Manager 5.3\css\stylesBig.css
+2	Review Manager 5.3\css\stylesSmall.css
+2	Review Manager 5.3\doc\help\DiagnosticHandbook.jar
+2	Review Manager 5.3\doc\help\interventionhandbook.jar
+2	Review Manager 5.3\doc\help\rm5help.jar
+2	Review Manager 5.3\doc\tutorial\Caffeine for daytime drowsiness.rm5
+2	Review Manager 5.3\doc\tutorial\DTA Study References.txt
+2	Review Manager 5.3\doc\tutorial\Laboratory tests for caffeine addiction in PhD students.rm5
+2	Review Manager 5.3\doc\tutorial\rm5tutorial.pdf
+2	Review Manager 5.3\doc\tutorial\rm5tutorial[dta].pdf
+2	Review Manager 5.3\doc\tutorial\Study References.txt
+2	Review Manager 5.3\doc\userguide\rm5userguide.pdf
+2	Review Manager 5.3\doc\userguide\Statistical_algorithms.pdf
+2	Review Manager 5.3\doc\userguide\Statistical_algorithms_calculator.pdf
+2	Review Manager 5.3\icons\about.png
+2	Review Manager 5.3\icons\accept.png
+2	Review Manager 5.3\icons\acceptMultiple.png
+2	Review Manager 5.3\icons\add.png
+2	Review Manager 5.3\icons\addAbove.PNG
+2	Review Manager 5.3\icons\addBelow.PNG
+2	Review Manager 5.3\icons\addButton_idle.png
+2	Review Manager 5.3\icons\addButton_move.png
+2	Review Manager 5.3\icons\addButton_pres.png
+2	Review Manager 5.3\icons\addOutElement.PNG
+2	Review Manager 5.3\icons\addSiblingLeft.PNG
+2	Review Manager 5.3\icons\addSiblingRight.PNG
+2	Review Manager 5.3\icons\analyses.png
+2	Review Manager 5.3\icons\awaitingStudy.png
+2	Review Manager 5.3\icons\back.png
+2	Review Manager 5.3\icons\backup.png
+2	Review Manager 5.3\icons\bold.png
+2	Review Manager 5.3\icons\bottom.png
+2	Review Manager 5.3\icons\bulletedList.png
+2	Review Manager 5.3\icons\calculator.png
+2	Review Manager 5.3\icons\cascadeWindows.png
+2	Review Manager 5.3\icons\cclogo.png
+2	Review Manager 5.3\icons\center.png
+2	Review Manager 5.3\icons\characteristics.png
+2	Review Manager 5.3\icons\checkIn.png
+2	Review Manager 5.3\icons\checkmark.png
+2	Review Manager 5.3\icons\checkOut.png
+2	Review Manager 5.3\icons\close.png
+2	Review Manager 5.3\icons\closeAllOtherWindows.png
+2	Review Manager 5.3\icons\closeAllWindows.png
+2	Review Manager 5.3\icons\closeButton_idle.png
+2	Review Manager 5.3\icons\closeButton_move.png
+2	Review Manager 5.3\icons\closeButton_pres.png
+2	Review Manager 5.3\icons\collapse.png
+2	Review Manager 5.3\icons\comparison.png
+2	Review Manager 5.3\icons\contact.png
+2	Review Manager 5.3\icons\contactGroup.png
+2	Review Manager 5.3\icons\contacts.png
+2	Review Manager 5.3\icons\contOutcome.png
+2	Review Manager 5.3\icons\copy.png
+2	Review Manager 5.3\icons\coverSheet.png
+2	Review Manager 5.3\icons\cut.png
+2	Review Manager 5.3\icons\dates.png
+2	Review Manager 5.3\icons\defaultView.png
+2	Review Manager 5.3\icons\delete.png
+2	Review Manager 5.3\icons\deleteColumn.png
+2	Review Manager 5.3\icons\deleteRow.png
+2	Review Manager 5.3\icons\deleteTable.png
+2	Review Manager 5.3\icons\dichOutcome.png
+2	Review Manager 5.3\icons\document.png
+2	Review Manager 5.3\icons\downArrow.png
+2	Review Manager 5.3\icons\edit.png
+2	Review Manager 5.3\icons\editButton_idle.png
+2	Review Manager 5.3\icons\editButton_move.png
+2	Review Manager 5.3\icons\editButton_pres.png
+2	Review Manager 5.3\icons\empty.png
+2	Review Manager 5.3\icons\excludedStudy.png
+2	Review Manager 5.3\icons\expand.png
+2	Review Manager 5.3\icons\export.png
+2	Review Manager 5.3\icons\feedback.png
+2	Review Manager 5.3\icons\figure.png
+2	Review Manager 5.3\icons\find.png
+2	Review Manager 5.3\icons\fixed.png
+2	Review Manager 5.3\icons\flowchart.png
+2	Review Manager 5.3\icons\followLink.png
+2	Review Manager 5.3\icons\forestPlot.png
+2	Review Manager 5.3\icons\forward.png
+2	Review Manager 5.3\icons\funnelPlot.png
+2	Review Manager 5.3\icons\handbook.png
+2	Review Manager 5.3\icons\help.png
+2	Review Manager 5.3\icons\history.png
+2	Review Manager 5.3\icons\import.png
+2	Review Manager 5.3\icons\includedStudy.png
+2	Review Manager 5.3\icons\indent.png
+2	Review Manager 5.3\icons\info.png
+2	Review Manager 5.3\icons\insertColumnLeft.png
+2	Review Manager 5.3\icons\insertColumnRight.png
+2	Review Manager 5.3\icons\insertRowAbove.png
+2	Review Manager 5.3\icons\insertRowBelow.png
+2	Review Manager 5.3\icons\ipdOutcome.png
+2	Review Manager 5.3\icons\italic.png
+2	Review Manager 5.3\icons\ivOutcome.png
+2	Review Manager 5.3\icons\left.png
+2	Review Manager 5.3\icons\link.png
+2	Review Manager 5.3\icons\livefavicon.png
+2	Review Manager 5.3\icons\localfavicon.png
+2	Review Manager 5.3\icons\marker.png
+2	Review Manager 5.3\icons\md.png
+2	Review Manager 5.3\icons\mergeCells.png
+2	Review Manager 5.3\icons\metaNotes.png
+2	Review Manager 5.3\icons\middle.png
+2	Review Manager 5.3\icons\moveDown.png
+2	Review Manager 5.3\icons\moveUp.png
+2	Review Manager 5.3\icons\myReviews.png
+2	Review Manager 5.3\icons\new.png
+2	Review Manager 5.3\icons\next.png
+2	Review Manager 5.3\icons\nextChange.png
+2	Review Manager 5.3\icons\note.png
+2	Review Manager 5.3\icons\ongoingStudy.png
+2	Review Manager 5.3\icons\open.png
+2	Review Manager 5.3\icons\options.png
+2	Review Manager 5.3\icons\or.png
+2	Review Manager 5.3\icons\orderedList.png
+2	Review Manager 5.3\icons\otherOutcome.png
+2	Review Manager 5.3\icons\outdent.png
+2	Review Manager 5.3\icons\paste.png
+2	Review Manager 5.3\icons\pdf.png
+2	Review Manager 5.3\icons\pin.png
+2	Review Manager 5.3\icons\por.png
+2	Review Manager 5.3\icons\previous.png
+2	Review Manager 5.3\icons\previousChange.png
+2	Review Manager 5.3\icons\print.png
+2	Review Manager 5.3\icons\prisma.png
+2	Review Manager 5.3\icons\properties.png
+2	Review Manager 5.3\icons\qualityGraphPlot.png
+2	Review Manager 5.3\icons\qualityItems.png
+2	Review Manager 5.3\icons\qualityTablePlot.png
+2	Review Manager 5.3\icons\random.png
+2	Review Manager 5.3\icons\rd.png
+2	Review Manager 5.3\icons\recSectionActive.png
+2	Review Manager 5.3\icons\recSectionInactive.png
+2	Review Manager 5.3\icons\redo.png
+2	Review Manager 5.3\icons\reference.png
+2	Review Manager 5.3\icons\referenceSecondary.png
+2	Review Manager 5.3\icons\reject.png
+2	Review Manager 5.3\icons\rejectMultiple.png
+2	Review Manager 5.3\icons\rename.png
+2	Review Manager 5.3\icons\renumber.png
+2	Review Manager 5.3\icons\reports.png
+2	Review Manager 5.3\icons\reviewPA.png
+2	Review Manager 5.3\icons\reviewPI.png
+2	Review Manager 5.3\icons\reviewPW.png
+2	Review Manager 5.3\icons\reviewRA.png
+2	Review Manager 5.3\icons\reviewRI.png
+2	Review Manager 5.3\icons\reviewRW.png
+2	Review Manager 5.3\icons\reviewTA.png
+2	Review Manager 5.3\icons\reviewTI.png
+2	Review Manager 5.3\icons\reviewTW.png
+2	Review Manager 5.3\icons\right.png
+2	Review Manager 5.3\icons\rm5-128.png
+2	Review Manager 5.3\icons\rm5-16.png
+2	Review Manager 5.3\icons\rm5-32.png
+2	Review Manager 5.3\icons\rm5-48.png
+2	Review Manager 5.3\icons\rm5-60.png
+2	Review Manager 5.3\icons\rm5-doc.icns
+2	Review Manager 5.3\icons\rm5-doc.ico
+2	Review Manager 5.3\icons\rm5.icns
+2	Review Manager 5.3\icons\rm5.ico
+2	Review Manager 5.3\icons\rm5.png
+2	Review Manager 5.3\icons\rm5logo.png
+2	Review Manager 5.3\icons\rob.png
+2	Review Manager 5.3\icons\rr.png
+2	Review Manager 5.3\icons\save.png
+2	Review Manager 5.3\icons\smd.png
+2	Review Manager 5.3\icons\sofTable.png
+2	Review Manager 5.3\icons\sos.png
+2	Review Manager 5.3\icons\spelling.png
+2	Review Manager 5.3\icons\split.png
+2	Review Manager 5.3\icons\splitCells.png
+2	Review Manager 5.3\icons\srocPlot.png
+2	Review Manager 5.3\icons\studies.png
+2	Review Manager 5.3\icons\studyCentricView.png
+2	Review Manager 5.3\icons\sub.png
+2	Review Manager 5.3\icons\super.png
+2	Review Manager 5.3\icons\symbol.png
+2	Review Manager 5.3\icons\table.png
+2	Review Manager 5.3\icons\test.png
+2	Review Manager 5.3\icons\testfavicon.png
+2	Review Manager 5.3\icons\tests.png
+2	Review Manager 5.3\icons\textSection.png
+2	Review Manager 5.3\icons\textSections.png
+2	Review Manager 5.3\icons\tileHorizontal.png
+2	Review Manager 5.3\icons\tileVertical.png
+2	Review Manager 5.3\icons\toggleInline_off.PNG
+2	Review Manager 5.3\icons\toggleInline_on.PNG
+2	Review Manager 5.3\icons\top.png
+2	Review Manager 5.3\icons\track.png
+2	Review Manager 5.3\icons\trainingfavicon.png
+2	Review Manager 5.3\icons\trimImage.png
+2	Review Manager 5.3\icons\underline.png
+2	Review Manager 5.3\icons\undo.png
+2	Review Manager 5.3\icons\unknown.png
+2	Review Manager 5.3\icons\unknownfavicon.png
+2	Review Manager 5.3\icons\unlink.png
+2	Review Manager 5.3\icons\validate.png
+2	Review Manager 5.3\icons\view.png
+2	Review Manager 5.3\icons\warning.png
+2	Review Manager 5.3\icons\whatsNew.png
+2	Review Manager 5.3\icons\wileyPDFPreview.png
+2	Review Manager 5.3\icons\zoomIn.png
+2	Review Manager 5.3\icons\zoomOut.png
+2	Review Manager 5.3\lex\accent.tlx
+2	Review Manager 5.3\lex\correct.tlx
+2	Review Manager 5.3\lex\ssceam.tlx
+2	Review Manager 5.3\lex\ssceam2.clx
+2	Review Manager 5.3\lex\sscebr.tlx
+2	Review Manager 5.3\lex\sscebr2.clx
+2	Review Manager 5.3\lex\ssceca.tlx
+2	Review Manager 5.3\lex\ssceca2.clx
+2	Review Manager 5.3\lex\sscema.tlx
+2	Review Manager 5.3\lex\sscema2.clx
+2	Review Manager 5.3\lex\sscemb.tlx
+2	Review Manager 5.3\lex\sscemb2.clx
+2	Review Manager 5.3\lex\tech.tlx
+2	Review Manager 5.3\lex\userdic.tlx
+2	Review Manager 5.3\lib\AppleJavaExtensions.jar
+2	Review Manager 5.3\lib\BrowserLauncher2.jar
+2	Review Manager 5.3\lib\imsws.jar
+2	Review Manager 5.3\lib\jcalendar-1.3.2.jar
+2	Review Manager 5.3\lib\jh.jar
+2	Review Manager 5.3\lib\jpdf.jar
+2	Review Manager 5.3\lib\ssce.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphics2d-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsbase-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-emf-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-java-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-pdf-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-ps-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-svg-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-graphicsio-swf-2.3.jar
+2	Review Manager 5.3\lib\freehep\freehep-io-2.2.2.jar
+2	Review Manager 5.3\misc\declarations of interest.htm
+2	Review Manager 5.3\misc\journals.txt
+2	Review Manager 5.3\misc\license.txt
+2	Review Manager 5.3\misc\publication form protocol.htm
+2	Review Manager 5.3\misc\publication form.htm
+2	Review Manager 5.3\misc\template.sof
+2	Review Manager 5.3\xml\extension-bug.xsd
+2	Review Manager 5.3\xml\review-dia.xsd
+2	Review Manager 5.3\xml\review-flx.xsd
+2	Review Manager 5.3\xml\review-int.xsd
+2	Review Manager 5.3\xml\review-met.xsd
+2	Review Manager 5.3\xml\review-umb.xsd
+2	Review Manager 5.3\xml\review4.xsd
+2	Review Manager 5.3\xml\sof.xsd
+2	Review Manager 5.3\xml\study_exchange.xsd
+2	SSO\Anesthesia P159 SSO.lnk
+0	export1.dcm
+0	export2.dcm
+0	export3.dcm
+0	export4.dcm
+0	export5.dcm
+0	export6.dcm
+0	export7.dcm
+0	export8.dcm
+0	export9.dcm
+0	export10.dcm
+0	export11.dcm
+0	export12.dcm
+0	export13.dcm
+0	export14.dcm
+0	export15.dcm
+0	export16.dcm
+0	export17.dcm
+0	export18.dcm
+0	export19.dcm
+0	export20.dcm
+0	export21.dcm
+0	export22.dcm
+0	export23.dcm
+0	export24.dcm
+0	export25.dcm
+0	export26.dcm
+0	export27.dcm
+0	export28.dcm
+0	export29.dcm
+0	export30.dcm
+0	export31.dcm
+0	export32.dcm
+0	export33.dcm
+0	export34.dcm
+0	export35.dcm
+0	export36.dcm
+0	export37.dcm
+0	export38.dcm
+0	export39.dcm
+0	export40.dcm
+0	export41.dcm
+0	export42.dcm
+0	export43.dcm
+0	export44.dcm
+0	export45.dcm
+0	export46.dcm
+0	export47.dcm
+0	export48.dcm
+0	export49.dcm
+0	export50.dcm
+0	export51.dcm
+0	export52.dcm
+0	export53.dcm
+0	export54.dcm
+0	export55.dcm
+0	export56.dcm
+0	export57.dcm
+0	export58.dcm
+0	export59.dcm
+0	export60.dcm
+0	export61.dcm
+0	export62.dcm
+0	export63.dcm
+0	export64.dcm
+0	export65.dcm
+0	export66.dcm
+0	export67.dcm
+0	export68.dcm
+0	export69.dcm
+0	export70.dcm
+0	export71.dcm
+0	export72.dcm
+0	export73.dcm
+0	export74.dcm
+0	export75.dcm
+0	export76.dcm
+0	export77.dcm
+0	export78.dcm
+0	export79.dcm
+0	export80.dcm
+0	export81.dcm
+0	export82.dcm
+0	export83.dcm
+0	export84.dcm
+0	export85.dcm
+0	export86.dcm
+0	export87.dcm
+0	export88.dcm
+0	export89.dcm
+0	export90.dcm
+0	export91.dcm
+0	export92.dcm
+0	export93.dcm
+0	export94.dcm
+0	export95.dcm
+0	export96.dcm
+0	export97.dcm
+0	export98.dcm
+0	export99.dcm
+0	export100.dcm
+0	export101.dcm
+0	export102.dcm
+0	export103.dcm
+0	export104.dcm
+0	export105.dcm
+0	export106.dcm
+0	export107.dcm
+0	export108.dcm
+0	export109.dcm
+0	export110.dcm
+0	export111.dcm
+0	export112.dcm
+0	export113.dcm
+0	export114.dcm
+0	export115.dcm
+0	export116.dcm
+0	export117.dcm
+0	export118.dcm
+0	export119.dcm
+0	export120.dcm
+0	export121.dcm
+0	export122.dcm
+0	export123.dcm
+0	export124.dcm
+0	export125.dcm
+0	export126.dcm
+0	export127.dcm
+0	export128.dcm
+0	export129.dcm
+0	export130.dcm
+0	export131.dcm
+0	export132.dcm
+0	export133.dcm
+0	export134.dcm
+0	export135.dcm
+0	export136.dcm
+0	export137.dcm
+0	export138.dcm
+0	export139.dcm
+0	export140.dcm
+0	export141.dcm
+0	export142.dcm
+0	export143.dcm
+0	export144.dcm
+0	export145.dcm
+0	export146.dcm
+0	export147.dcm
+0	export148.dcm
+0	export149.dcm
+0	export150.dcm
+0	export151.dcm
+0	export152.dcm
+0	export153.dcm
+0	export154.dcm
+0	export155.dcm
+0	export156.dcm
+0	export157.dcm
+0	export158.dcm
+0	export159.dcm
+0	export160.dcm
+0	export161.dcm
+0	export162.dcm
+0	export163.dcm
+0	export164.dcm
+0	export165.dcm
+0	export166.dcm
+0	export167.dcm
+0	export168.dcm
+0	export169.dcm
+0	export170.dcm
+0	export171.dcm
+0	export172.dcm
+0	export173.dcm
+0	export174.dcm
+0	export175.dcm
+0	export176.dcm
+0	export177.dcm
+0	export178.dcm
+0	export179.dcm
+0	export180.dcm
+0	export181.dcm
+0	export182.dcm
+0	export183.dcm
+0	export184.dcm
+0	export185.dcm
+0	export186.dcm
+0	export187.dcm
+0	export188.dcm
+0	export189.dcm
+0	export190.dcm
+0	export191.dcm
+0	export192.dcm
+0	export193.dcm
+0	export194.dcm
+0	export195.dcm
+0	export196.dcm
+0	export197.dcm
+0	export198.dcm
+0	export199.dcm
+0	export200.dcm
+0	export201.dcm
+0	export202.dcm
+0	export203.dcm
+0	export204.dcm
+0	export205.dcm
+0	export206.dcm
+0	export207.dcm
+0	export208.dcm
+0	export209.dcm
+0	export210.dcm
+0	export211.dcm
+0	export212.dcm
+0	export213.dcm
+0	export214.dcm
+0	export215.dcm
+0	export216.dcm
+0	export217.dcm
+0	export218.dcm
+0	export219.dcm
+0	export220.dcm
+0	export221.dcm
+0	export222.dcm
+0	export223.dcm
+0	export224.dcm
+0	export225.dcm
+0	export226.dcm
+0	export227.dcm
+0	export228.dcm
+0	export229.dcm
+0	export230.dcm
+0	export231.dcm
+0	export232.dcm
+0	export233.dcm
+0	export234.dcm
+0	export235.dcm
+0	export236.dcm
+0	export237.dcm
+0	export238.dcm
+0	export239.dcm
+0	export240.dcm
+0	export241.dcm
+0	export242.dcm
+0	export243.dcm
+0	export244.dcm
+0	export245.dcm
+0	export246.dcm
+0	export247.dcm
+0	export248.dcm
+0	export249.dcm
+0	export250.dcm
+0	export251.dcm
+0	export252.dcm
+0	export253.dcm
+0	export254.dcm
+0	export255.dcm
+0	export256.dcm
+0	export257.dcm
+0	export258.dcm
+0	export259.dcm
+0	export260.dcm
+0	export261.dcm
+0	export262.dcm
+0	export263.dcm
+0	export264.dcm
+0	export265.dcm
+0	export266.dcm
+0	export267.dcm
+0	export268.dcm
+0	export269.dcm
+0	export270.dcm
+0	export271.dcm
+0	export272.dcm
+0	export273.dcm
+0	export274.dcm
+0	export275.dcm
+0	export276.dcm
+0	export277.dcm
+0	export278.dcm
+0	export279.dcm
+0	export280.dcm
+0	export281.dcm
+0	export282.dcm
+0	export283.dcm
+0	export284.dcm
+0	export285.dcm
+0	export286.dcm
+0	export287.dcm
+0	export288.dcm
+0	export289.dcm
+0	export290.dcm
+0	export291.dcm
+0	export292.dcm
+0	export293.dcm
+0	export294.dcm
+0	export295.dcm
+0	export296.dcm
+0	export297.dcm
+0	export298.dcm
+0	export299.dcm
+0	export300.dcm
+0	export301.dcm
+0	export302.dcm
+0	export303.dcm
+0	export304.dcm
+0	export305.dcm
+0	export306.dcm
+0	export307.dcm
+0	export308.dcm
+0	export309.dcm
+0	export310.dcm
+0	export311.dcm
+0	export312.dcm
+0	export313.dcm
+0	export314.dcm
+0	export315.dcm
+0	export316.dcm
+0	export317.dcm
+0	export318.dcm
+0	export319.dcm
+0	export320.dcm
+0	export321.dcm
+0	export322.dcm
+0	export323.dcm
+0	export324.dcm
+0	export325.dcm
+0	export326.dcm
+0	export327.dcm
+0	export328.dcm
+0	export329.dcm
+0	export330.dcm
+0	export331.dcm
+0	export332.dcm
+0	export333.dcm
+0	export334.dcm
+0	export335.dcm
+0	export336.dcm
+0	export337.dcm
+0	export338.dcm
+0	export339.dcm
+0	export340.dcm
+0	export341.dcm
+0	export342.dcm
+0	export343.dcm
+0	export344.dcm
+0	export345.dcm
+0	export346.dcm
+0	export347.dcm
+0	export348.dcm
+0	export349.dcm
+0	export350.dcm
+0	export351.dcm
+0	export352.dcm
+0	export353.dcm
+0	export354.dcm
+0	export355.dcm
+0	export356.dcm
+0	export357.dcm
+0	export358.dcm
+0	export359.dcm
+0	export360.dcm
+0	export361.dcm
+0	export362.dcm
+0	export363.dcm
+0	export364.dcm
+0	export365.dcm
+0	export366.dcm
+0	export367.dcm
+0	export368.dcm
+0	export369.dcm
+0	export370.dcm
+0	export371.dcm
+0	export372.dcm
+0	export373.dcm
+0	export374.dcm
+0	export375.dcm
+0	export376.dcm
+0	export377.dcm
+0	export378.dcm
+0	export379.dcm
+0	export380.dcm
+0	export381.dcm
+0	export382.dcm
+0	export383.dcm
+0	export384.dcm
+0	export385.dcm
+0	export386.dcm
+0	export387.dcm
+0	export388.dcm
+0	export389.dcm
+0	export390.dcm
+0	export391.dcm
+0	export392.dcm
+0	export393.dcm
+0	export394.dcm
+0	export395.dcm
+0	export396.dcm
+0	export397.dcm
+0	export398.dcm
+0	export399.dcm
+0	export400.dcm
+0	export401.dcm
+0	export402.dcm
+0	export403.dcm
+0	export404.dcm
+0	export405.dcm
+0	export406.dcm
+0	export407.dcm
+0	export408.dcm
+0	export409.dcm
+0	export410.dcm
+0	export411.dcm
+0	export412.dcm
+0	export413.dcm
+0	export414.dcm
+0	export415.dcm
+0	export416.dcm
+0	export417.dcm
+0	export418.dcm
+0	export419.dcm
+0	export420.dcm
+0	export421.dcm
+0	export422.dcm
+0	export423.dcm
+0	export424.dcm
+0	export425.dcm
+0	export426.dcm
+0	export427.dcm
+0	export428.dcm
+0	export429.dcm
+0	export430.dcm
+0	export431.dcm
+0	export432.dcm
+0	export433.dcm
+0	export434.dcm
+0	export435.dcm
+0	export436.dcm
+0	export437.dcm
+0	export438.dcm
+0	export439.dcm
+0	export440.dcm
+0	export441.dcm
+0	export442.dcm
+0	export443.dcm
+0	export444.dcm
+0	export445.dcm
+0	export446.dcm
+0	export447.dcm
+0	export448.dcm
+0	export449.dcm
+0	export450.dcm
+0	export451.dcm
+0	export452.dcm
+0	export453.dcm
+0	export454.dcm
+0	export455.dcm
+0	export456.dcm
+0	export457.dcm
+0	export458.dcm
+0	export459.dcm
+0	export460.dcm
+0	export461.dcm
+0	export462.dcm
+0	export463.dcm
+0	export464.dcm
+0	export465.dcm
+0	export466.dcm
+0	export467.dcm
+0	export468.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0000.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0001.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0002.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0003.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0004.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0005.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0006.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0007.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0008.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0009.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0010.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0011.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0012.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0013.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0014.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0015.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0016.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0017.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0018.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0019.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0020.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0021.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0022.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0023.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0024.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0025.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0026.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0027.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0028.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0029.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0030.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0031.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0032.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0033.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0034.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0035.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0036.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0037.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0038.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0039.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0040.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0041.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0042.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0043.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0044.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0045.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0046.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0047.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0048.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0049.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0050.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0051.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0052.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0053.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0054.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0055.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0056.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0057.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0058.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0059.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0060.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0061.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0062.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0063.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0064.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0065.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0066.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0067.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0068.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0069.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0070.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0071.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0072.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0073.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0074.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0075.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0076.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0077.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0078.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0079.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0080.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0081.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0082.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0083.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0084.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0085.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0086.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0087.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0088.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0089.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0090.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0091.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0092.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0093.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0094.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0095.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0096.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0097.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0098.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0099.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0100.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0101.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0102.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0103.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0104.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0105.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0106.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0107.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0108.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0109.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0110.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0111.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0112.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0113.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0114.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0115.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0116.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0117.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0118.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0119.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0120.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0121.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0122.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0123.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0124.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0125.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0126.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0127.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0128.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0129.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0130.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0131.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0132.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0133.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0134.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0135.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0136.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0137.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0138.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0139.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0140.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0141.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0142.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0143.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0144.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0145.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0146.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0147.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0148.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0149.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0150.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0151.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0152.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0153.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0154.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0155.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0156.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0157.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0158.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0159.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0160.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0161.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0162.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0163.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0164.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0165.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0166.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0167.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0168.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0169.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0170.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0171.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0172.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0173.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0174.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0175.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0176.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0177.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0178.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0179.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0180.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0181.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0182.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285084.9545821084\0183.dcm
+0	157200\20160418\2.16.840.114421.80660.9514285062
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0000.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0001.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0002.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0003.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0004.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0005.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0006.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0007.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0008.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0009.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0010.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0011.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0012.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0013.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0014.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0015.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0016.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0017.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0018.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0019.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0020.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0021.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0022.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0023.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0024.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0025.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0026.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0027.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0028.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0029.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0030.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0031.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0032.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0033.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0034.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0035.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0036.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0037.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0038.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0039.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0040.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0041.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0042.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0043.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0044.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0045.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0046.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0047.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0048.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0049.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0050.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0051.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0052.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0053.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0054.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0055.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0056.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0057.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0058.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0059.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0060.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0061.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0062.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0063.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0064.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0065.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0066.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0067.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0068.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0069.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0070.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0071.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0072.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0073.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0074.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0075.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0076.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0077.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0078.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0079.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0080.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0081.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0082.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0083.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0084.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0085.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0086.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0087.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0088.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0089.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0090.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0091.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0092.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0093.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0094.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0095.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0096.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0097.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0098.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0099.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0100.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0101.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0102.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0103.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0104.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0105.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0106.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0107.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0108.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0109.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0110.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0111.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0112.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0113.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0114.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0115.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0116.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0117.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0118.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0119.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0120.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0121.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0122.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0123.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0124.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0125.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0126.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0127.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0128.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0129.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0130.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0131.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0132.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0133.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0134.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0135.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0136.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0137.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0138.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0139.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0140.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0141.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0142.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0143.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0144.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0145.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0146.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0147.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0148.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0149.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0150.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0151.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0152.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0153.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0154.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0155.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0156.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0157.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0158.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0159.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0160.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0161.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0162.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0163.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0164.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0165.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0166.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0167.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0168.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0169.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0170.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0171.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0172.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0173.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0174.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335291.9577871291\0175.dcm
+0	157200\20170424\2.16.840.114421.80660.9546335268
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0000.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0001.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0002.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0003.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0004.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0005.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0006.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0007.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0008.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0009.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0010.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0011.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0012.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0013.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0014.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0015.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0016.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0017.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0018.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0019.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0020.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0021.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0022.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0023.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0024.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0025.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0026.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0027.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0028.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0029.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0030.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0031.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0032.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0033.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0034.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0035.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0036.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0037.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0038.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0039.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0040.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0041.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0042.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0043.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0044.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0045.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0046.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0047.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0048.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0049.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0050.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0051.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0052.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0053.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0054.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0055.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0056.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0057.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0058.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0059.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0060.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0061.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0062.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0063.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0064.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0065.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0066.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0067.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0068.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0069.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0070.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0071.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0072.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0073.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0074.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0075.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0076.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0077.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0078.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0079.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0080.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0081.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0082.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0083.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0084.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0085.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0086.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0087.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0088.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0089.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0090.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0091.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0092.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0093.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0094.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0095.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0096.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0097.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0098.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0099.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0100.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0101.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0102.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0103.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0104.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0105.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0106.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0107.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0108.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0109.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0110.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0111.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0112.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0113.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0114.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0115.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0116.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0117.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0118.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0119.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0120.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0121.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0122.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0123.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0124.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0125.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0126.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0127.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0128.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0129.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0130.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0131.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0132.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0133.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0134.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0135.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0136.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0137.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0138.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0139.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0140.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0141.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0142.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0143.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0144.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0145.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0146.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0147.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0148.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0149.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0150.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0151.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0152.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0153.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0154.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0155.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0156.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0157.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0158.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0159.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0160.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0161.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0162.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0163.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0164.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0165.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0166.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0167.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0168.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0169.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0170.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0171.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0172.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0173.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0174.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0175.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0176.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0177.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0178.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0179.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0180.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0181.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0182.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0183.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0184.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0185.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0186.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0187.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0188.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0189.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0190.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0191.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0192.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0193.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0194.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0195.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0196.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0197.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0198.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0199.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0200.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0201.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0202.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0203.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0204.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0205.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0206.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0207.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0208.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0209.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0210.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0211.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0212.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0213.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0214.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0215.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0216.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0217.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0218.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0219.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0220.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0221.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0222.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0223.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0224.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0225.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0226.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0227.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0228.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0229.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0230.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0231.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0232.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0233.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0234.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0235.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0236.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0237.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0238.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0239.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0240.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0241.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0242.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0243.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0244.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0245.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0246.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0247.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0248.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0249.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0250.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0251.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0252.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0253.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0254.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0255.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0256.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0257.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0258.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0259.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0260.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0261.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0262.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0263.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0264.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0265.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0266.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0267.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0268.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0269.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0270.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0271.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0272.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0273.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0274.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0275.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0276.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0277.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0278.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0279.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0280.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0281.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0282.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0283.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0284.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0285.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0286.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0287.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0288.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0289.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0290.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0291.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0292.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0293.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0294.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0295.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0296.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0297.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0298.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0299.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0300.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0301.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0302.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0303.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0304.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0305.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0306.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0307.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0308.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0309.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0310.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0311.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0312.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0313.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0314.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0315.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0316.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0317.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0318.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472477.9525008477\0319.dcm
+0	163298\20150821\2.16.840.114421.80660.9493472457
+0	166569\export7.dcm
+0	166569\export8.dcm
+0	166569\export9.dcm
+0	166569\export10.dcm
+0	166569\export11.dcm
+0	166569\export12.dcm
+0	166569\export13.dcm
+0	166569\export14.dcm
+0	166569\export15.dcm
+0	166569\export16.dcm
+0	166569\export17.dcm
+0	166569\export18.dcm
+0	166569\export19.dcm
+0	166569\export20.dcm
+0	166569\export21.dcm
+0	166569\export22.dcm
+0	166569\export23.dcm
+0	166569\export24.dcm
+0	166569\export25.dcm
+0	166569\export26.dcm
+0	166569\export27.dcm
+0	166569\export28.dcm
+0	166569\export29.dcm
+0	166569\export30.dcm
+0	166569\export31.dcm
+0	166569\export32.dcm
+0	166569\export33.dcm
+0	166569\export34.dcm
+0	166569\export35.dcm
+0	166569\export36.dcm
+0	166569\export37.dcm
+0	166569\export38.dcm
+0	166569\export39.dcm
+0	166569\export40.dcm
+0	166569\export41.dcm
+0	166569\export42.dcm
+0	166569\export43.dcm
+0	166569\export44.dcm
+0	166569\export45.dcm
+0	166569\export46.dcm
+0	166569\export47.dcm
+0	166569\export48.dcm
+0	166569\export49.dcm
+0	166569\export50.dcm
+0	166569\export51.dcm
+0	166569\export52.dcm
+0	166569\export53.dcm
+0	166569\export54.dcm
+0	166569\export55.dcm
+0	166569\export56.dcm
+0	166569\export57.dcm
+0	166569\export58.dcm
+0	166569\export59.dcm
+0	166569\export60.dcm
+0	166569\export61.dcm
+0	166569\export62.dcm
+0	166569\export63.dcm
+0	166569\export64.dcm
+0	166569\export65.dcm
+0	166569\export66.dcm
+0	166569\export67.dcm
+0	166569\export68.dcm
+0	166569\export69.dcm
+0	166569\export70.dcm
+0	166569\export71.dcm
+0	166569\export72.dcm
+0	166569\export73.dcm
+0	166569\export74.dcm
+0	166569\export75.dcm
+0	166569\export76.dcm
+0	166569\export77.dcm
+0	166569\export78.dcm
+0	166569\export79.dcm
+0	166569\export80.dcm
+0	166569\export81.dcm
+0	166569\export82.dcm
+0	166569\export83.dcm
+0	166569\export84.dcm
+0	166569\export85.dcm
+0	166569\export86.dcm
+0	166569\export87.dcm
+0	166569\export88.dcm
+0	166569\export89.dcm
+0	166569\export90.dcm
+0	166569\export91.dcm
+0	166569\export92.dcm
+0	166569\export93.dcm
+0	166569\export94.dcm
+0	166569\export95.dcm
+0	166569\export96.dcm
+0	166569\export97.dcm
+0	166569\export98.dcm
+0	166569\export99.dcm
+0	166569\export100.dcm
+0	166569\export101.dcm
+0	166569\export102.dcm
+0	166569\export103.dcm
+0	166569\export104.dcm
+0	166569\export105.dcm
+0	166569\export106.dcm
+0	166569\export107.dcm
+0	166569\export108.dcm
+0	166569\export109.dcm
+0	166569\export110.dcm
+0	166569\export111.dcm
+0	166569\export112.dcm
+0	166569\export113.dcm
+0	166569\export114.dcm
+0	166569\export115.dcm
+0	166569\export116.dcm
+0	166569\export117.dcm
+0	166569\export118.dcm
+0	166569\export119.dcm
+0	166569\export120.dcm
+0	166569\export121.dcm
+0	166569\export122.dcm
+0	166569\export123.dcm
+0	166569\export124.dcm
+0	166569\export125.dcm
+0	166569\export126.dcm
+0	166569\export127.dcm
+0	166569\export128.dcm
+0	166569\export129.dcm
+0	166569\export130.dcm
+0	166569\export131.dcm
+0	166569\export132.dcm
+0	166569\export133.dcm
+0	166569\export134.dcm
+0	166569\export135.dcm
+0	166569\export136.dcm
+0	166569\export137.dcm
+0	166569\export138.dcm
+0	166569\export139.dcm
+0	166569\export140.dcm
+0	166569\export141.dcm
+0	166569\export142.dcm
+0	166569\export143.dcm
+0	166569\export144.dcm
+0	166569\export145.dcm
+0	166569\export146.dcm
+0	166569\export147.dcm
+0	166569\export148.dcm
+0	166569\export149.dcm
+0	166569\export150.dcm
+0	166569\export151.dcm
+0	166569\export152.dcm
+0	166569\export153.dcm
+0	166569\export154.dcm
+0	166569\export155.dcm
+0	166569\export156.dcm
+0	166569\export157.dcm
+0	166569\export158.dcm
+0	166569\export159.dcm
+0	166569\export160.dcm
+0	166569\export161.dcm
+0	166569\export162.dcm
+0	166569\export163.dcm
+0	166569\export164.dcm
+0	166569\export165.dcm
+0	166569\export166.dcm
+0	166569\export167.dcm
+0	166569\export168.dcm
+0	166569\export169.dcm
+0	166569\export170.dcm
+0	166569\export171.dcm
+0	166569\export172.dcm
+0	166569\export173.dcm
+0	166569\export174.dcm
+0	166569\export175.dcm
+0	166569\export176.dcm
+0	166569\export177.dcm
+0	166569\export178.dcm
+0	166569\export179.dcm
+0	166569\export180.dcm
+0	166569\export181.dcm
+0	166569\export182.dcm
+0	166569\export183.dcm
+0	166569\export184.dcm
+0	166569\export185.dcm
+0	166569\export186.dcm
+0	166569\export187.dcm
+0	166569\export188.dcm
+0	166569\export189.dcm
+0	166569\export190.dcm
+0	166569\export191.dcm
+0	166569\export192.dcm
+0	166569\export193.dcm
+0	166569\export194.dcm
+0	166569\export195.dcm
+0	166569\export196.dcm
+0	166569\export197.dcm
+0	166569\export198.dcm
+0	166569\export199.dcm
+0	166569\export200.dcm
+0	166569\export201.dcm
+0	166569\export202.dcm
+0	166569\export203.dcm
+0	166569\export204.dcm
+0	166569\export205.dcm
+0	166569\export206.dcm
+0	166569\export207.dcm
+0	166569\export208.dcm
+0	166569\export209.dcm
+0	166569\export210.dcm
+0	166569\export211.dcm
+0	166569\export212.dcm
+0	166569\export213.dcm
+0	166569\export214.dcm
+0	166569\export215.dcm
+0	166569\export216.dcm
+0	166569\export217.dcm
+0	166569\export218.dcm
+0	166569\export219.dcm
+0	166569\export220.dcm
+0	166569\export221.dcm
+0	166569\export222.dcm
+0	166569\export223.dcm
+0	166569\export224.dcm
+0	166569\export225.dcm
+0	166569\export226.dcm
+0	166569\export227.dcm
+0	166569\export228.dcm
+0	166569\export229.dcm
+0	166569\export230.dcm
+0	166569\export231.dcm
+0	166569\export232.dcm
+0	166569\export233.dcm
+0	166569\export234.dcm
+0	166569\export235.dcm
+0	166569\export236.dcm
+0	166569\export237.dcm
+0	166569\export238.dcm
+0	166569\export239.dcm
+0	166569\export240.dcm
+0	166569\export241.dcm
+0	166569\export242.dcm
+0	166569\export243.dcm
+0	166569\export244.dcm
+0	166569\export245.dcm
+0	166569\export246.dcm
+0	166569\export247.dcm
+0	166569\export248.dcm
+0	166569\export249.dcm
+0	166569\export250.dcm
+0	166569\export251.dcm
+0	166569\export252.dcm
+0	166569\export253.dcm
+0	166569\export254.dcm
+0	166569\export255.dcm
+0	166569\export256.dcm
+0	166569\export257.dcm
+0	166569\export258.dcm
+0	166569\export259.dcm
+0	166569\export260.dcm
+0	166569\export261.dcm
+0	166569\export262.dcm
+0	166569\export263.dcm
+0	166569\export264.dcm
+0	166569\export265.dcm
+0	166569\export266.dcm
+0	166569\export267.dcm
+0	166569\export268.dcm
+0	166569\export269.dcm
+0	166569\export270.dcm
+0	166569\export271.dcm
+0	166569\export272.dcm
+0	166569\export273.dcm
+0	166569\export274.dcm
+0	166569\export275.dcm
+0	166569\export276.dcm
+0	166569\export277.dcm
+0	166569\export278.dcm
+0	166569\export279.dcm
+0	166569\export280.dcm
+0	166569\export281.dcm
+0	166569\export282.dcm
+0	166569\export283.dcm
+0	166569\export284.dcm
+0	166569\export285.dcm
+0	166569\export286.dcm
+0	166569\export287.dcm
+0	166569\export288.dcm
+0	166569\export289.dcm
+0	166569\export290.dcm
+0	166569\export291.dcm
+0	166569\export292.dcm
+0	166569\export293.dcm
+0	166569\export294.dcm
+0	166569\export295.dcm
+0	166569\export296.dcm
+0	166569\export297.dcm
+0	166569\export298.dcm
+0	166569\export299.dcm
+0	166569\export300.dcm
+0	166569\export301.dcm
+0	166569\export302.dcm
+0	166569\export303.dcm
+0	166569\export304.dcm
+0	166569\export305.dcm
+0	166569\export306.dcm
+0	166569\export307.dcm
+0	166569\export308.dcm
+0	166569\export309.dcm
+0	166569\export310.dcm
+0	166569\export311.dcm
+0	166569\export312.dcm
+0	166569\export313.dcm
+0	166569\export314.dcm
+0	166569\export315.dcm
+0	166569\export316.dcm
+0	166569\export317.dcm
+0	166569\export318.dcm
+0	166569\export319.dcm
+0	166569\export320.dcm
+0	166569\export321.dcm
+0	166569\export322.dcm
+0	166569\export323.dcm
+0	166569\export324.dcm
+0	166569\export325.dcm
+0	166569\export326.dcm
+0	166569\export327.dcm
+0	166569\export328.dcm
+0	166569\export329.dcm
+0	166569\export330.dcm
+0	166569\export331.dcm
+0	166569\export332.dcm
+0	166569\export333.dcm
+0	166569\export334.dcm
+0	166569\export335.dcm
+0	166569\export336.dcm
+0	166569\export337.dcm
+0	166569\export338.dcm
+0	166569\export339.dcm
+0	166569\export340.dcm
+0	166569\export341.dcm
+0	166569\export342.dcm
+0	166569\export343.dcm
+0	166569\export344.dcm
+0	166569\export345.dcm
+0	166569\export346.dcm
+0	166569\export347.dcm
+0	166569\export348.dcm
+0	166569\export349.dcm
+0	166569\export350.dcm
+0	166569\export351.dcm
+0	166569\export352.dcm
+0	166569\export353.dcm
+0	166569\export354.dcm
+0	166569\export355.dcm
+0	166569\export356.dcm
+0	166569\export357.dcm
+0	166569\export358.dcm
+0	166569\export359.dcm
+0	166569\export360.dcm
+0	166569\export361.dcm
+0	166569\export362.dcm
+0	166569\export363.dcm
+0	166569\export364.dcm
+0	166569\export365.dcm
+0	166569\export366.dcm
+0	166569\export367.dcm
+0	166569\export368.dcm
+0	166569\export369.dcm
+0	166569\export370.dcm
+0	166569\export371.dcm
+0	166569\export372.dcm
+0	166569\export373.dcm
+0	166569\export374.dcm
+0	166569\export375.dcm
+0	166569\export376.dcm
+0	166569\export377.dcm
+0	166569\export378.dcm
+0	166569\export379.dcm
+0	166569\export380.dcm
+0	166569\export381.dcm
+0	166569\export382.dcm
+0	166569\export383.dcm
+0	166569\export384.dcm
+0	166569\export385.dcm
+0	166569\export386.dcm
+0	166569\export387.dcm
+0	166569\export388.dcm
+0	166569\export389.dcm
+0	166569\export390.dcm
+0	166569\export391.dcm
+0	166569\export392.dcm
+0	166569\export393.dcm
+0	166569\export394.dcm
+0	166569\export395.dcm
+0	166569\export396.dcm
+0	166569\export397.dcm
+0	166569\export398.dcm
+0	166569\export399.dcm
+0	166569\export400.dcm
+0	166569\export401.dcm
+0	166569\export402.dcm
+0	166569\export403.dcm
+0	166569\export404.dcm
+0	166569\export405.dcm
+0	166569\export406.dcm
+0	166569\export407.dcm
+0	166569\export408.dcm
+0	166569\export409.dcm
+0	166569\export410.dcm
+0	166569\export411.dcm
+0	166569\export412.dcm
+0	166569\export413.dcm
+0	166569\export414.dcm
+0	166569\export415.dcm
+0	166569\export416.dcm
+0	166569\export417.dcm
+0	166569\export418.dcm
+0	166569\export419.dcm
+0	166569\export420.dcm
+0	166569\export421.dcm
+0	166569\export422.dcm
+0	166569\export423.dcm
+0	166569\export424.dcm
+0	166569\export425.dcm
+0	166569\export426.dcm
+0	166569\export427.dcm
+0	166569\export428.dcm
+0	166569\export429.dcm
+0	166569\export430.dcm
+0	166569\export431.dcm
+0	166569\export432.dcm
+0	166569\export433.dcm
+0	166569\export434.dcm
+0	166569\export435.dcm
+0	166569\export436.dcm
+0	166569\export437.dcm
+0	166569\export438.dcm
+0	166569\export439.dcm
+0	166569\export440.dcm
+0	166569\export441.dcm
+0	166569\export442.dcm
+0	166569\export443.dcm
+0	166569\export444.dcm
+0	166569\export445.dcm
+0	166569\export446.dcm
+0	166569\export447.dcm
+0	166569\export448.dcm
+0	166569\export449.dcm
+0	166569\export450.dcm
+0	166569\export451.dcm
+0	166569\export452.dcm
+0	166569\export453.dcm
+0	166569\export454.dcm
+0	166569\export455.dcm
+0	166569\export456.dcm
+0	166569\export457.dcm
+0	166569\export458.dcm
+0	166569\export459.dcm
+0	166569\export460.dcm
+0	166569\export461.dcm
+0	166569\export462.dcm
+0	166569\export463.dcm
+0	166569\export464.dcm
+0	166569\export465.dcm
+0	166569\export466.dcm
+0	166569\export467.dcm
+0	166569\export468.dcm
+0	166569\export1.dcm
+0	166569\export2.dcm
+0	166569\export3.dcm
+0	166569\export4.dcm
+0	166569\export5.dcm
+0	166569\export6.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0000.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0001.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0002.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0003.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0004.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0005.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0006.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0007.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0008.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0009.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0010.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0011.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0012.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0013.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0014.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0015.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0016.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0017.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0018.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0019.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0020.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0021.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0022.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0023.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0024.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0025.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0026.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0027.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0028.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0029.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0030.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0031.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0032.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0033.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0034.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0035.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0036.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0037.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0038.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0039.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0040.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0041.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0042.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0043.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0044.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0045.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0046.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0047.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0048.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0049.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0050.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0051.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0052.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0053.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0054.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0055.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0056.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0057.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0058.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0059.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0060.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0061.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0062.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0063.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0064.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0065.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0066.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0067.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0068.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0069.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0070.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0071.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0072.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0073.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0074.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0075.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0076.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0077.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0078.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0079.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0080.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0081.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0082.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0083.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0084.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0085.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0086.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0087.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0088.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0089.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0090.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0091.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0092.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0093.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0094.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0095.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0096.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0097.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0098.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0099.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0100.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0101.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0102.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0103.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0104.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0105.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0106.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0107.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0108.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0109.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0110.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0111.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0112.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0113.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0114.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0115.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0116.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0117.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0118.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0119.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0120.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0121.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0122.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0123.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0124.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0125.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0126.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0127.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0128.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0129.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0130.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0131.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0132.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0133.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0134.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0135.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0136.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0137.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0138.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0139.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0140.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0141.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0142.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0143.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0144.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0145.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0146.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0147.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0148.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0149.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0150.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0151.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0152.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0153.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0154.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0155.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0156.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0157.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0158.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0159.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0160.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0161.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0162.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0163.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0164.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0165.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0166.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0167.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0168.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0169.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0170.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0171.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0172.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0173.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0174.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0175.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0176.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0177.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0178.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0179.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0180.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0181.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0182.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0183.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0184.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0185.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0186.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0187.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0188.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0189.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0190.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0191.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0192.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0193.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0194.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0195.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0196.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0197.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0198.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0199.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0200.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0201.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0202.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0203.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0204.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0205.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0206.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0207.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0208.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0209.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0210.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0211.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0212.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0213.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0214.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0215.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0216.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0217.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0218.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0219.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0220.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0221.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0222.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0223.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0224.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0225.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0226.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0227.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0228.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0229.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0230.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0231.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0232.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0233.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0234.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0235.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0236.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0237.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0238.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0239.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0240.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0241.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0242.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0243.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0244.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0245.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0246.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0247.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0248.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0249.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0250.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0251.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0252.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0253.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0254.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0255.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0256.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0257.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0258.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0259.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0260.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0261.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0262.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0263.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0264.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0265.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0266.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0267.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0268.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0269.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0270.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0271.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0272.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0273.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0274.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0275.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0276.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0277.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0278.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0279.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0280.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0281.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0282.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0283.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0284.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0285.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0286.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0287.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0288.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0289.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0290.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0291.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0292.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0293.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0294.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0295.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0296.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0297.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0298.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0299.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0300.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0301.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0302.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0303.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0304.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0305.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0306.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0307.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0308.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0309.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0310.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867072.9573403072\0311.dcm
+0	169401\20170303\2.16.840.114421.80660.9541867049
