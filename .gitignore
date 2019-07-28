@@ -1,3 +1,10 @@
+# CBCT stuff
+_data/
+localizer/data/
+localizer/prediction/
+localizer/unet_trained*/
+classifier/flowers/
+
 *.py[cod]
 
 # C extensions
