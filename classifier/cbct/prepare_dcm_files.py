@@ -7,8 +7,8 @@ import shutil
 import re
 from natsort import natsorted
 
-sourceDir = '../../_data/dicom/dcm_raw'
-targetDir = '../../_data/dicom/dcm'
+sourceDir = '../../_data/dcm_raw'
+targetDir = '../../_data/dcm'
 mappingFile = 'mapping.csv'
 
 # 1. Parse mapping file

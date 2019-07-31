@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# For all directories in _data/dicom/dcm
-#   - Make a directory in _data/dicom/png
+# For all directories in _data/dcm
+#   - Make a directory in _data/png
 #   - Convert all *.dcm files into *.png files
 #
-# After running this, a human must manually update _data/dicom/mapping.csv.
+# After running this, a human must manually update mapping.csv.
 # When done, run prepare_classifier_data.sh
 
 

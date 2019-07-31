@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STUDIES_DIR="../../_data/dicom/jpg"
+STUDIES_DIR="../../_data/jpg"
 RESULT_FILE="results.csv"
 RESULT_FILE_BACKUP="results_backup.csv"
 

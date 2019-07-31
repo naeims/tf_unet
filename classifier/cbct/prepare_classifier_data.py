@@ -7,8 +7,8 @@ import shutil
 import re
 from natsort import natsorted
 
-sourceDir = '../../_data/dicom/jpg'
-targetDir = '../../_data/dicom/classifier_training'
+sourceDir = '../../_data/jpg'
+targetDir = '../../_data/classifier_training'
 yesTargetDir = os.path.join(targetDir, 'cbctyes')
 noTargetDir = os.path.join(targetDir, 'cbctno')
 mappingFile = 'mapping.csv'

@@ -8,7 +8,7 @@ import sys
 from PIL import Image
 from natsort import natsorted
 
-sourceDir = '../../_data/dicom'
+sourceDir = '../../_data'
 dcmStudiesDir = os.path.join(sourceDir, 'dcm')
 pngStudiesDir = os.path.join(sourceDir, 'png')
 jpgStudiesDir = os.path.join(sourceDir, 'jpg')
