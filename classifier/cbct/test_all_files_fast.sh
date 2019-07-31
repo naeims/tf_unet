@@ -2,9 +2,14 @@
 
 STUDIES_DIR="../../_data/dicom/jpg"
 RESULT_FILE="results.csv"
+RESULT_FILE_BACKUP="results_backup.csv"
 
 # Delete result file
-rm -rf results.csv
+rm -rf $RESULT_FILE
+
+# Create new result file
+touch $RESULT_FILE
+echo "study_id,slice_number,yesness" >> $RESULT_FILE
 
 dirNames=$(ls $STUDIES_DIR/ | sort -V)
 for dirName in $dirNames ; do
@@ -34,4 +39,4 @@ for dirName in $dirNames ; do
     echo "   >> Took $dirElapsedTime seconds."
 done
 
-cp results.csv results_backup.csv
+cp $RESULT_FILE $RESULT_FILE_BACKUP

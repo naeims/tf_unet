@@ -8,11 +8,11 @@ import re
 from natsort import natsorted
 
 sourceDir = '../../_data/dicom/jpg'
-targetDir = '../../_data/dicom/classify'
+targetDir = '../../_data/dicom/classifier_training'
 yesTargetDir = os.path.join(targetDir, 'cbctyes')
 noTargetDir = os.path.join(targetDir, 'cbctno')
 mappingFile = 'mapping.csv'
-ignoreWholeHead = True
+ignoreWholeHead = True # keep in sync with report_error_of_classifier.py
 ignoreMargin = 7 # keep in sync with label_all_images.py
 
 # 1. Parse mapping file
