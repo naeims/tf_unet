@@ -29,7 +29,7 @@ count = 0
 for studyId in yesBoundaries:
     if ignoreWholeHead == True and mapping[studyId]['is_whole_head'] == '1':
         continue
-    if mapping[studyId]['is_training'] == '1': # ignore training set
+    if mapping[studyId]['is_classifier_training'] == '1': # ignore training set
         continue
 
     studyError = int(yesBoundaries[studyId]['c3c4_start']) - int(mapping[studyId]['c3c4_start'])

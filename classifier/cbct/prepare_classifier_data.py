@@ -36,7 +36,7 @@ for root, dirNames, fileNames in os.walk(sourceDir):
         for dirName in natsorted(dirNames):
                 c3c4Start = mapping[dirName]['c3c4_start']
                 isWholeHead = mapping[dirName]['is_whole_head']
-                isTraining = mapping[dirName]['is_training']
+                isTraining = mapping[dirName]['is_classifier_training']
 
                 if ignoreWholeHead == True and isWholeHead == '1':
                         print('Skipping because it is whole head:', dirName)
