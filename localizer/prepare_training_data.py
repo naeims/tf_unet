@@ -19,15 +19,20 @@ from natsort import natsorted
 imageDir = '../_data/png'
 labelDir = '../_data/raw_labels'
 trainingDir = '../_data/localizer_training'
+trainingDirPositive = os.path.join(trainingDir, 'positive')
+trainingDirAll = os.path.join(trainingDir, 'all')
 saveDir = 'data/labels'
 mappingFile = '../classifier/cbct/mapping.csv'
 ignoreMargin = 7
 ignoreWholeHead = True
+negativeMod = 10
 
 # Delete dirs
 print('deleting ' + trainingDir)
 shutil.rmtree(trainingDir, ignore_errors=True)
 os.makedirs(trainingDir)
+os.makedirs(trainingDirPositive)
+os.makedirs(trainingDirAll)
 
 print('deleting ' + saveDir)
 shutil.rmtree(saveDir, ignore_errors=True)
@@ -58,48 +63,64 @@ for root, dirNames, fileNames in os.walk(imageDir):
                 if int(sliceNumber) < int(mapping[dirName]['c3c4_start']):
                     continue
 
-                # copy image
                 srcPath = os.path.join(imageDir, dirName, fileName)
-                dstPath = os.path.join(trainingDir, fileName)
-                shutil.copyfile(srcPath, dstPath)
+                dstPathAll = os.path.join(trainingDirAll, fileName)
+                dstPathPositive = os.path.join(trainingDirPositive, fileName)
 
-                # process label
                 labelPath = os.path.join(labelDir, dirName, fileName)
-                if os.path.exists(labelPath):
-                    print('Label found! Converting {}'.format(labelPath))
 
-                    labelIm = Image.open(labelPath)
-                    labelArr = np.asarray(labelIm)
-                    shape = np.shape(labelArr)
-
-                    maskArr = np.zeros([shape[0], shape[1]], np.float32)
-
-                    for x in range(shape[0]):
-                        for y in range(shape[1]):
-                            if not (labelArr[x, y, 0] == labelArr[x, y, 1] and labelArr[x, y, 1] == labelArr[x, y, 2]):
-                                maskArr[x, y] = 255.0
-
-                    maskFileName = fileName.replace('.png', '_mask.png')
-                    maskPath = os.path.join(trainingDir, maskFileName)
-
-                    with open(maskPath, 'wb') as png_file:
-                        w = png.Writer(shape[1], shape[0], greyscale=True)
-                        w.write(png_file, np.uint8(maskArr))
-                    
-                    # make backup
-                    shutil.copyfile(maskPath, os.path.join(saveDir, maskFileName))
-
-                else:
-                    print('No label found, assuming all black {}'.format(labelPath))
+                # if no cac study, assume all black
+                if mapping[dirName]['has_cac'] == '0':
+                    if int(sliceNumber) % negativeMod != 0:
+                        continue
+                    print('No CAC study {}, assuming all black {}'.format(dirName, labelPath))
+                    shutil.copyfile(srcPath, dstPathAll)
                     im = Image.open(srcPath)
                     arr = np.asarray(im)
                     shape = np.shape(arr)
                     maskArr = np.zeros([shape[0], shape[1]], np.float32)
                     maskFileName = fileName.replace('.png', '_mask.png')
-                    maskPath = os.path.join(trainingDir, maskFileName)
+                    maskPath = os.path.join(trainingDirAll, maskFileName)
 
                     with open(maskPath, 'wb') as png_file:
                         w = png.Writer(shape[1], shape[0], greyscale=True)
                         w.write(png_file, np.uint8(maskArr))
 
+                # process label
+                elif os.path.exists(labelPath):
+                    labelIm = Image.open(labelPath)
+                    labelArr = np.asarray(labelIm)
+                    shape = np.shape(labelArr)
+
+                    maskArr = np.zeros([shape[0], shape[1]], np.float32)
+                    hasLabeledPixel = False
+
+                    for x in range(shape[0]):
+                        for y in range(shape[1]):
+                            if not (labelArr[x, y, 0] == labelArr[x, y, 1] and labelArr[x, y, 1] == labelArr[x, y, 2]):
+                                maskArr[x, y] = 255.0
+                                hasLabeledPixel = True
+
+                    if hasLabeledPixel == True:
+                        print('Label found! {}'.format(labelPath))
+                        shutil.copyfile(srcPath, dstPathPositive)
+                        maskFileName = fileName.replace('.png', '_mask.png')
+                        maskPath = os.path.join(trainingDirPositive, maskFileName)
+
+                        with open(maskPath, 'wb') as png_file:
+                            w = png.Writer(shape[1], shape[0], greyscale=True)
+                            w.write(png_file, np.uint8(maskArr))
+                        
+                        # make backup
+                        shutil.copyfile(maskPath, os.path.join(saveDir, maskFileName))
+                    else:
+                        print('No label, ignoring {}'.format(labelPath))
     break
+
+# Copy everything from positive dir to all dir
+for root, dirNames, fileNames in os.walk(trainingDirPositive):
+    for fileName in natsorted(fileNames):
+        srcPath = os.path.join(trainingDirPositive, fileName)
+        dstPath = os.path.join(trainingDirAll, fileName)
+        print('Copying {} -> {}'.format(srcPath, dstPath))
+        shutil.copyfile(srcPath, dstPath)
