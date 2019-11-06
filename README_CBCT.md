@@ -91,3 +91,6 @@
 # Testing the localizer
 * Run jupyter notebook
 * Open localizer_testing
+
+# Data
+* Download from https://app.box.com/s/kxhrwnkmntvi1raw4tjw4b8ddhb0zj9m
