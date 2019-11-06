@@ -4,6 +4,11 @@ localizer/prediction/
 localizer/unet_trained*/
 localizer/_previous_models/
 _data.zip
+classifier/results.csv
+classifier/results_backup.csv
+classifier/retrained_graph.pb
+classifier/retrained_labels.txt
+classifier/yes_boundaries.csv
 
 *.py[cod]
 
