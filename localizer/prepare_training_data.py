@@ -71,6 +71,7 @@ for root, dirNames, fileNames in os.walk(imageDir):
 
                 # if no cac study, assume all black
                 if mapping[dirName]['has_cac'] == '0':
+                    continue
                     if int(sliceNumber) % negativeMod != 0:
                         continue
                     print('No CAC study {}, assuming all black {}'.format(dirName, labelPath))
