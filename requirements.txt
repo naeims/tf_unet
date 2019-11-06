@@ -1,5 +1,10 @@
 click
 numpy
 Pillow
-tensorflow>=1.0.0
+tensorflow==1.13.1
 matplotlib
+natsort
+tensorflow-hub
+imgaug
+pypng
+pydicom

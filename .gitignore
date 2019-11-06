@@ -3,6 +3,7 @@ _data/
 localizer/prediction/
 localizer/unet_trained*/
 localizer/_previous_models/
+_data.zip
 
 *.py[cod]
 
